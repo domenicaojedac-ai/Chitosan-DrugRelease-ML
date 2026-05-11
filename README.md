@@ -31,7 +31,8 @@ Para garantizar la reproducibilidad, el proyecto se organiza de la siguiente man
 
 2. Instalar dependencias necesarias:
  ```bash
-pip install -r requirements.txt
+ pip install -r requirements.txt
+
 4. Ejecutar la aplicación:
  ```bash
 python app/interfaz.py
