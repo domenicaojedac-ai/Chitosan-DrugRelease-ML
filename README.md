@@ -45,7 +45,6 @@ Para garantizar la reproducibilidad, el proyecto se organiza de la siguiente man
 
 ## Autoría y Créditos
 - **Autora:** Domenica Pamela Ojeda Cedeño
-- **Título:** Ingeniero Biomédico
 - **Asesor:** PhD. Christian Rafael Quijia Quezada
 - **Co-Asesor:** MSc. Kevin Raúl Landazuri Cortez
 
