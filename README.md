@@ -39,6 +39,12 @@ Para garantizar la reproducibilidad, el proyecto se organiza de la siguiente man
 
 *(Nota: Para usuarios que deseen el ejecutable directo, consultar la sección de [Releases](../../releases))*
 
+1. Descargue el archivo `SimuladorHidrogeles.exe` desde la sección de **[Releases](../../releases)**.
+2. **Nota de Seguridad:** Al ser un software académico de autoría propia, Windows SmartScreen podría bloquear el inicio. Para ejecutarlo:
+   - Haga clic en **"Más información"**.
+   - Seleccione **"Ejecutar de todas formas"**.
+   - *Nota:* En algunos sistemas, puede ser necesario desactivar temporalmente el **"Control de aplicaciones y navegador"** en la configuración de Seguridad de Windows para permitir la ejecución inicial.
+     
 ## Autoría y Créditos
 - **Autora:** Domenica Pamela Ojeda Cedeño
 - **Asesor:** PhD. Christian Rafael Quijia Quezada
