@@ -33,7 +33,7 @@ Para garantizar la reproducibilidad, el proyecto se organiza de la siguiente man
  ```bash
  pip install -r requirements.txt
 
-4. Ejecutar la aplicación:
+3. Ejecutar la aplicación:
  ```bash
 python app/interfaz.py
 
