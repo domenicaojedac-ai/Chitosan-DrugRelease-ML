@@ -35,7 +35,9 @@ pip install -r requirements.txt
 4. Ejecutar la aplicación:
  ```bash
 python app/interfaz.py
+
 (Nota: Para usuarios que deseen el ejecutable directo, consultar la sección de Releases)
+
 ## Resultados Destacados
 XGBoost demostró el mejor rendimiento para la predicción de EE% con un R² de 0.9468 y un RMSE de 4.11%.
 La validación experimental mostró un error relativo de apenas 2.67%, confirmando la alta capacidad de generalización del modelo.
