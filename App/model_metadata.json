@@ -1,0 +1,28 @@
+{
+  "method": "XGBoost + RegressorChain",
+  "model_file": "xgboost_weibull_method1.joblib",
+  "model_path": "C:\\Users\\YONNYPC\\Desktop\\Pdome\\results_method1_xgb\\xgboost_weibull_method1.joblib",
+  "features_base": [
+    "CS_MW_kDa",
+    "CS_DD_percent",
+    "CS_Conc_wv_percent",
+    "Crosslinker_Density",
+    "Drug_MW_g_mol",
+    "Drug_LogP",
+    "Medium_pH",
+    "pH_LogP_Diff",
+    "Prep_Method",
+    "Crosslinker_Name"
+  ],
+  "target_names": [
+    "Target_A",
+    "Target_log_b",
+    "Target_log_k"
+  ],
+  "uses_drug_target_encoder": true,
+  "output_parameters_physical": {
+    "A": "Maximum release amplitude",
+    "b": "Weibull shape parameter",
+    "k": "Weibull scale parameter"
+  }
+}
