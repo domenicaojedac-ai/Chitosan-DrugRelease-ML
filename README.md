@@ -39,10 +39,6 @@ Para garantizar la reproducibilidad, el proyecto se organiza de la siguiente man
 
 *(Nota: Para usuarios que deseen el ejecutable directo, consultar la sección de [Releases](../../releases))*
 
-## Resultados Destacados
-- **XGBoost** demostró el mejor rendimiento para la predicción de EE% con un **R² de 0.9468** y un RMSE de 4.11%.
-- La validación experimental mostró un error relativo de apenas **2.67%**, confirmando la alta capacidad de generalización del modelo.
-
 ## Autoría y Créditos
 - **Autora:** Domenica Pamela Ojeda Cedeño
 - **Asesor:** PhD. Christian Rafael Quijia Quezada
