@@ -30,12 +30,12 @@ Para garantizar la reproducibilidad, el proyecto se organiza de la siguiente man
    git clone https://github.com/domenicaojedac-ai/Chitosan-DrugRelease-ML.git
 
 2. Instalar dependencias necesarias:
- ```bash
- pip install -r requirements.txt
+    ```bash
+    pip install -r requirements.txt
 
 3. Ejecutar la aplicación:
- ```bash
-python app/interfaz.py
+    ```bash
+   python app/interfaz.py
 
 (Nota: Para usuarios que deseen el ejecutable directo, consultar la sección de Releases)
 
