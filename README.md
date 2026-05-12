@@ -44,7 +44,8 @@ Para garantizar la reproducibilidad, el proyecto se organiza de la siguiente man
    - Haga clic en **"Más información"**.
    - Seleccione **"Ejecutar de todas formas"**.
    - *Nota:* En algunos sistemas, puede ser necesario desactivar temporalmente el **"Control de aplicaciones y navegador"** en la configuración de Seguridad de Windows para permitir la ejecución inicial.
-     
+## Data base references 
+  The complete list of literature sources used for database construction is available in [`Data/references_used.md`](Data/references_used.md).   
 ## Autoría y Créditos
 - **Autora:** Domenica Pamela Ojeda Cedeño
 - **Asesor:** PhD. Christian Rafael Quijia Quezada
